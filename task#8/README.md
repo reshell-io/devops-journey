@@ -11,7 +11,7 @@
 - SSH into EC2 inside the private subnet.
 
 
-#### Questions
+#### Questions:
 
 - How can you access an EC2 in a private subnet?
 - What network components are required to access a private subnet?
